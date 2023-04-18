@@ -1,6 +1,6 @@
 {
   "name": "@fichtelmax/jose-sign-pss",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "bin": {
     "jose-sign-pss": "./index.js"
