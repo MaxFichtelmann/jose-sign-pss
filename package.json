@@ -1,0 +1,18 @@
+{
+  "name": "@fichtelmax/jose-sign-pss",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jose-sign-pss": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jose": "^4.14.0"
+  }
+}
